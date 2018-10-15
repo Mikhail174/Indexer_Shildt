@@ -103,7 +103,7 @@ namespace FSDemo_307
             //поместить ряд значений в массив fs
             for (int i = 0; i < fs.Length; i++)
                 fs[i] = i;
-            //а теперь воспользоваться индексами типа int и double для обращения к массиву.
+            //а теперь воспользоваться индексами типа int и double для обращения к массиву..
             Console.WriteLine("fs[1]: " + fs[1]);
             Console.WriteLine("fs[2]: " + fs[2]);
 
