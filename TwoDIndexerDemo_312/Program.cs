@@ -10,8 +10,8 @@ namespace TwoDIndexerDemo_312
     {
         int[,] a; // ссылка на базовый двумерный массив
         int rows, cols; //размеры массива
-        public int Length; //открытая переменная длины массива
-        public bool ErrFlag;//обозначает результат последней операции
+        public int Length; //открытая переменная длины массива.
+        public bool ErrFlag;//обозначает результат последней операции.
 
     }
     class Program
